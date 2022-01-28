@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition-dark {
+    @apply transition-colors duration-500;
+}
