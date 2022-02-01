@@ -11,7 +11,7 @@ import { BsLinkedin } from "react-icons/bs";
 function HireMe() {
     return (
         <div id="hire-me" className=" scroll-mt-20 my-20 flex flex-col items-center">
-            <Heading title="Hire Me" />
+            <Heading title="Contact" />
             <div className="flex mt-10 items-start gap-16 md:gap-10 justify-center md:flex-row flex-col">
                 <div className="grid grid-cols-[max-content_1fr] items-center gap-x-4">
                     <FiPhoneCall size={"1.25rem"} className="text-teal-600" />

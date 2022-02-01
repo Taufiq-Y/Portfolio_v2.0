@@ -68,7 +68,7 @@ function Header() {
                         <a
                             href="#hire-me"
                             className="rounded-lg px-4 py-2 dark:bg-teal-600 bg-teal-500 text-white font-mono transition-dark">
-                            Hire Me
+                            Contact
                         </a>
                         <button
                             onClick={() => dispatch(action.toggleDarkTheme())}
@@ -160,7 +160,7 @@ function Header() {
                             </MenuButton>
                             <MenuButton setOpen={setOpen} href="#hire-me">
                                 <div className="rounded-lg px-4 py-2 dark:bg-teal-600 bg-teal-500 text-white font-mono">
-                                    Hire Me
+                                    Contact
                                 </div>
                             </MenuButton>
                         </ul>

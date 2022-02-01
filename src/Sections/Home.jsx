@@ -15,19 +15,19 @@ function Home() {
             className="relative min-h-screen scroll-mt-20 flex-col md:flex-row flex items-center justify-evenly">
             <div className="text font-nunito">
                 <div className="md:text-5xl text-2xl">
-                    Hi there,
+                    Hello 👋,
                     <br />
                     I'm Muhammed Taufiq Y
                 </div>
                 <hr />
                 <div className="flex items-center gap-2 text-gray-600 dark:text-slate-400 transition-dark">
-                    Full Stack Developer , Digital Marketer <BsSuitHeartFill className="text-red-500" />
+                    Full Stack Developer , Digital Marketer 
                 </div>
 
                 <div className="mt-5 flex gap-4">
                     <GithubButton />
                     <ButtonOutline href="#hire-me">
-                        Contact Me
+                        Contact
                         <IoSend className="group-hover:-rotate-45 transform transition-transform" />
                     </ButtonOutline>
                     <ResumeButton />
