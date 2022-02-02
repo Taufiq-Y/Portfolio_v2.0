@@ -1,3 +1,3 @@
 # Portfolio
 
-Deployed [Click Here](https://meyazhagan.netlify.app/)
+Deployed [Click Here](https://muhammed-taufiq-portfolio.netlify.app/)
