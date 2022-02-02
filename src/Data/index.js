@@ -98,6 +98,32 @@ const projects = [
         ],
     },
     {
+        title: "Discord Club",
+        desc: "A Discord chat club implemented with socket.io for instant message receiveing",
+        image: "dis",
+        built: [
+            "html",
+            "css",
+            "react",
+            "nodejs",
+            "express",
+            "socket",
+            "router"
+        ],
+
+        url: {
+            live: "https://chat-socket-io-prince.herokuapp.com/",
+            frontend: "https://github.com/Taufiq-Y/descord-club/tree/main/client",
+            backend: "https://github.com/Taufiq-Y/descord-club/tree/main/server",
+        },
+        demoCredential: [
+            {
+                email: "mohammedtaufiq60gmail.com",
+                password: "admin@123",
+            },
+        ],
+    },
+    {
         title: "Code Monk",
         desc: "Its an educational web app. which is developed primarly focus on assigning mentors on students issue, the admin of this app can add students and mentors in the DB and can assign / update mentor (Cred - NOT REQUIRED).",
         image: "mass",
