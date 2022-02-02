@@ -58,7 +58,7 @@ function HireMe() {
                         href="https://github.com/Taufiq-Y"
                         target={"_blank"}
                         className="dark:text-slate-400 hover:underline decoration-teal-400 underline-offset-1 text-slate-800 transition-dark">
-                        https://github.com/Taufiq-Y
+                        Taufiq-Y
                     </a>
                     <div className="col-span-full mb-4"></div>
 

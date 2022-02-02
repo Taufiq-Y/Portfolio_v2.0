@@ -4,7 +4,7 @@ const skill = {};
 
 const projects = [
     {
-        title: "Car Rental Booking Website",
+        title: "Muhammed's Cars",
         desc: " To book cars in online and checkout for the slots and availablity of cars. Admin can post new cars. Integrated with Stripe For Payment",
         built: ["html", "css", "bootstrap", "react","redux","router","nodejs", "express", "mongodb"],
         image: "car_rental",
@@ -24,7 +24,7 @@ const projects = [
     },
     {
         title: "Crypto World",
-        desc: "Krypt is a online web 3.0 application, which is developed to transfer ethereum's from one account to another account. in order to use this, you need to download metamask and get your account id.---use 0.00001 eth amount to transfer because of insufficient eth",
+        desc: "Krypt is a online web 3.0 application, which is developed to transfer ethereum's from one account to another account. in order to use this, you need to download metamask and get your account id.---use 0.00001 eth amount to transfer because of insufficient eth (Cred - NOT REQUIRED)",
         integerated: " stripe for payment",
         image: "krypt",
         built:[
@@ -71,7 +71,7 @@ const projects = [
         ],
     },
     {
-        title: "Private Blogging Application",
+        title: "ReadIT",
         desc: "Private Blogging Application, A web application designed for private or authorised user's.",
         image: "blog",
         built: [
@@ -98,8 +98,8 @@ const projects = [
         ],
     },
     {
-        title: "Mentor-Assigning",
-        desc: "Its an educational web app. which is developed primarly focus on assigning mentors on students issue, the admin of this app can add students and mentors in the DB and can assign / update mentor.",
+        title: "Code Monk",
+        desc: "Its an educational web app. which is developed primarly focus on assigning mentors on students issue, the admin of this app can add students and mentors in the DB and can assign / update mentor (Cred - NOT REQUIRED).",
         image: "mass",
         built: [
             "html",
@@ -113,9 +113,9 @@ const projects = [
         ],
 
         url: {
-            live: "https://mentor-assigning-taufiq.netlify.app/",
-            frontend: "https://github.com/Taufiq-Y/Mentor-Assigning/tree/main/client",
-            backend: "https://github.com/Taufiq-Y/Mentor-Assigning/tree/main/server",
+            live: "https://code-monks.netlify.app/",
+            frontend: "https://github.com/Taufiq-Y/Code-Monks/tree/main/client",
+            backend: "https://github.com/Taufiq-Y/Code-Monks/tree/main/server",
         },
         demoCredential: [
             {
@@ -125,7 +125,7 @@ const projects = [
         ],
     },
     {
-        title: "Todoss - CRUD",
+        title: "Kepprr",
         desc: "A simple todo app developed using ReactJS, with the implementation of CRUD.",
         image: "todo",
         built: [
@@ -137,9 +137,9 @@ const projects = [
         ],
 
         url: {
-            live: "https://react-todoss.netlify.app/",
+            live: "https://kepprr.netlify.app/",
             frontend: "https://github.com/Taufiq-Y/React-Todoss",
-            backend: "https://github.com/Taufiq-Y/React-Todoss"
+            // backend: "https://github.com/Taufiq-Y/React-Todoss"
         }
         
     },

@@ -8,7 +8,7 @@ function Footer() {
                 Designed & developed by Muhammed Taufiq Y 
             </div>
             <div>
-                Copyrights reserved 2022-2023
+            © reserved 2022
             </div>
         </div>
     );

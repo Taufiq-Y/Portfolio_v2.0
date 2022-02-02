@@ -116,14 +116,14 @@ const ProjectCard = ({ project }) => {
                     {/* 
                     <Button link={url.backend} action={"Backend Code"} /> */}
 
-                    {demoCredential && (
+                    {/* {demoCredential && (
                         <button
                             onClick={() => setOpen((prev) => !prev)}
                             className="px-4 py-2 hover:ring-4 ring-teal-600
                              dark:bg-slate-800 bg-slate-200 transition-dark rounded-lg">
                             <IoMdKey />
                         </button>
-                    )}
+                    )} */}
                 </div>
 
                 <Transition
