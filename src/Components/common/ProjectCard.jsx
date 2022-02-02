@@ -3,6 +3,7 @@ import mpgr from "../../assets/projects/mpgr.png";
 import krypt from "../../assets/projects/krypt.png";
 import cars from "../../assets/projects/cars.png";
 import blog from "../../assets/projects/blog.png";
+import dis from "../../assets/projects/dis.png";
 import mass from "../../assets/projects/mass.png";
 import todo from "../../assets/projects/todo.png";
 import eth from "../../assets/images/eth.png"
@@ -39,6 +40,7 @@ const assertMap = {
     blog: blog,
     mass: mass,
     todo: todo,
+    dis: dis,
     html,
     css,
     bootstrap,
