@@ -46,10 +46,10 @@ function HireMe() {
                         <BsLinkedin />
                     </span>
                     <a
-                        href="https://www.linkedin.com/in/mohammed-taufiq-y-844b8b1b4/"
+                        href="https://www.linkedin.com/in/muhammed-taufiq-y-844b8b1b4/"
                         target={"_blank"}
                         className="dark:text-slate-400 hover:underline decoration-teal-400 underline-offset-1 text-slate-800 transition-dark">
-                        Mohammed Taufiq Y
+                        MUhammed Taufiq Y
                     </a>
                     <span className="text-teal-600 font-bold my-5">
                         <BsGithub />
