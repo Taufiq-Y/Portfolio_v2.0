@@ -15,6 +15,9 @@ import postman from "../assets/images/postman.png"
 import git from "../assets/images/git.png";
 import tailwind from "../assets/images/tailwind.svg";
 import netlify from "../assets/images/netlify.png";
+import angular from "../assets/images/angular.png"
+import nest from "../assets/images/file_type_nestjs_icon_130355.png"
+import mysql from "../assets/images/mysql.png"
 import { SiExpress } from "react-icons/si";
 
 const Card = ({ src, alt, children }) => {
@@ -47,7 +50,7 @@ function Skill() {
                     <Card src={git} alt="Git" />
                 </div>
                 <div className="flex flex-row md:flex-col ">
-                    <Card src={gql} alt="GraphQL" />
+                    <Card src={mysql} alt="MySql" />
                     <Card src={postman} alt="Postman" />
                 </div>
                 <div className="flex flex-row md:flex-col ">
@@ -81,10 +84,10 @@ function Skill() {
                             />
                         </svg>
                     </Card>
-                    <Card src={figma} alt="Figma" />
+                    <Card src={angular} alt="Angular" />
                 </div>
                 <div className="flex flex-row md:flex-col ">
-                    <Card src={axd} alt="Adobe Xd" />
+                    <Card src={nest} alt="NestJS" />
                 </div>
             </div>
         </div>
